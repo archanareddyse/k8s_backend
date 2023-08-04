@@ -22,7 +22,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: back-node-port
+  name: back-end-deployment
 spec:
   type: NodePort
   ports:
